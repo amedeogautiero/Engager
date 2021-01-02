@@ -1,0 +1,5 @@
+C:\Users\amedeo.gautiero\source\repos\Engager\EngagerProject\Engager\bin\Debug\Engager.dll
+C:\Users\amedeo.gautiero\source\repos\Engager\EngagerProject\Engager\bin\Debug\Engager.pdb
+C:\Users\amedeo.gautiero\source\repos\Engager\EngagerProject\Engager\obj\Debug\Engager.csproj.CoreCompileInputs.cache
+C:\Users\amedeo.gautiero\source\repos\Engager\EngagerProject\Engager\obj\Debug\Engager.dll
+C:\Users\amedeo.gautiero\source\repos\Engager\EngagerProject\Engager\obj\Debug\Engager.pdb
